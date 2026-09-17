@@ -1,0 +1,25 @@
+{
+    "project": "MATCHAI",
+    "format": "IPL",
+    "model": "Random Forest",
+    "accuracy_test": 0.5792349726775956,
+    "f1_test": 0.40310077519379844,
+    "roc_auc_test": 0.5529126213592233,
+    "threshold": 0.5,
+    "venue_included": true,
+    "toss_included": true,
+    "pitch_type": "UI/context only",
+    "training_matches": 1218,
+    "features": [
+        "elo_diff",
+        "win_rate_diff",
+        "recent_form_diff",
+        "avg_runs_diff",
+        "avg_wickets_diff",
+        "run_rate_diff",
+        "team_1_h2h_win_rate",
+        "venue_win_rate_diff",
+        "toss_winner_diff",
+        "bat_first_diff"
+    ]
+}

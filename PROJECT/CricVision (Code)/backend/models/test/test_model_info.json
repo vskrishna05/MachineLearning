@@ -1,0 +1,33 @@
+{
+    "format": "TEST",
+    "model": "Logistic Regression",
+    "classification": "3-class",
+    "classes": {
+        "0": "Team 1 Win",
+        "1": "Team 2 Win",
+        "2": "Draw"
+    },
+    "features": [
+        "elo_diff",
+        "win_rate_diff",
+        "recent_form_diff",
+        "avg_runs_diff",
+        "avg_wickets_diff",
+        "run_rate_diff",
+        "team1_h2h_points_rate",
+        "venue_win_rate_diff",
+        "toss_winner_diff",
+        "bat_first_diff"
+    ],
+    "venue_used": true,
+    "toss_used": true,
+    "pitch_type_used": false,
+    "pitch_type_status": "Context/UI only",
+    "historical_matches": 894,
+    "notes": [
+        "Venue was retained after feature experiment.",
+        "Toss was included as requested.",
+        "Pitch type is not used for ML because reliable historical pitch labels are unavailable.",
+        "Pre-toss predictions use neutral toss values."
+    ]
+}

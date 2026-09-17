@@ -1,0 +1,31 @@
+{
+    "format": "ODI",
+    "model": "Random Forest",
+    "accuracy": 0.6348773841961853,
+    "macro_f1": 0.6338961348341373,
+    "weighted_f1": 0.6329148854720893,
+    "roc_auc": 0.6627657673753796,
+    "features": [
+        "elo_diff",
+        "win_rate_diff",
+        "recent_form_diff",
+        "avg_runs_diff",
+        "avg_wickets_diff",
+        "run_rate_diff",
+        "team_1_h2h_win_rate",
+        "venue_win_rate_diff",
+        "toss_winner_diff",
+        "bat_first_diff"
+    ],
+    "venue_used": true,
+    "toss_used": true,
+    "pitch_type_used": false,
+    "pitch_type_status": "Context/UI only",
+    "historical_matches": 2442,
+    "notes": [
+        "Venue retained as a required prediction input.",
+        "Toss features retained.",
+        "Pitch type is currently not used by the ML model.",
+        "Final model selected from the tested ODI configurations."
+    ]
+}

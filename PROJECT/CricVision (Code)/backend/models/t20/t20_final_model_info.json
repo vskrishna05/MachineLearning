@@ -1,0 +1,24 @@
+{
+    "model": "Random Forest",
+    "format": "T20",
+    "features": [
+        "elo_diff",
+        "win_rate_diff",
+        "recent_form_diff",
+        "avg_runs_diff",
+        "avg_wickets_diff",
+        "run_rate_diff",
+        "team_1_h2h_win_rate",
+        "venue_win_rate_diff",
+        "toss_winner_diff",
+        "bat_first_diff"
+    ],
+    "n_estimators": 500,
+    "max_depth": 8,
+    "min_samples_leaf": 4,
+    "class_weight": "balanced",
+    "historical_matches": 3423,
+    "venue_used": true,
+    "toss_used": true,
+    "pitch_type_used_for_prediction": false
+}

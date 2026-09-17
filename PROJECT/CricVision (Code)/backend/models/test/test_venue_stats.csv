@@ -1,0 +1,729 @@
+team,venue,matches,wins
+England,"M Chinnaswamy Stadium, Bangalore",1,0
+India,"M Chinnaswamy Stadium, Bangalore",1,0
+South Africa,"Kingsmead, Durban",3,3
+Pakistan,"Kingsmead, Durban",1,0
+Australia,Melbourne Cricket Ground,22,15
+England,Melbourne Cricket Ground,7,2
+England,Sydney Cricket Ground,7,2
+Australia,Sydney Cricket Ground,25,16
+South Africa,"Newlands, Cape Town",4,3
+Pakistan,"Newlands, Cape Town",2,0
+Australia,"Antigua Recreation Ground, St John's, Antigua",1,0
+West Indies,"Antigua Recreation Ground, St John's, Antigua",1,1
+Bangladesh,"Marrara Cricket Ground, Darwin",1,0
+Australia,"Marrara Cricket Ground, Darwin",1,1
+South Africa,"Edgbaston, Birmingham",1,0
+England,"Edgbaston, Birmingham",7,3
+England,"Trent Bridge, Nottingham",7,5
+South Africa,"Trent Bridge, Nottingham",1,0
+South Africa,"Headingley, Leeds",1,1
+England,"Headingley, Leeds",6,5
+Bangladesh,Multan Cricket Stadium,1,0
+Pakistan,Multan Cricket Stadium,8,4
+South Africa,"Kennington Oval, London",2,0
+England,"Kennington Oval, London",8,3
+Australia,"Western Australia Cricket Association Ground, Perth",1,1
+Zimbabwe,"Western Australia Cricket Association Ground, Perth",1,0
+New Zealand,"Punjab Cricket Association Stadium, Mohali, Chandigarh",1,0
+India,"Punjab Cricket Association Stadium, Mohali, Chandigarh",1,0
+South Africa,"Gaddafi Stadium, Lahore",2,0
+Pakistan,"Gaddafi Stadium, Lahore",3,2
+Zimbabwe,Sydney Cricket Ground,1,0
+Bangladesh,"Bangabandhu National Stadium, Dhaka",1,0
+England,"Bangabandhu National Stadium, Dhaka",1,1
+South Africa,"Iqbal Stadium, Faisalabad",1,0
+Pakistan,"Iqbal Stadium, Faisalabad",1,0
+England,"MA Aziz Stadium, Chittagong",1,1
+Bangladesh,"MA Aziz Stadium, Chittagong",1,0
+West Indies,"Queens Sports Club, Bulawayo",3,2
+Zimbabwe,"Queens Sports Club, Bulawayo",8,0
+Australia,"Brisbane Cricket Ground, Woolloongabba, Brisbane",6,3
+India,"Brisbane Cricket Ground, Woolloongabba, Brisbane",2,0
+South Africa,"New Wanderers Stadium, Johannesburg",1,1
+West Indies,"New Wanderers Stadium, Johannesburg",1,0
+England,"Sinhalese Sports Club Ground, Colombo",1,0
+Sri Lanka,"Sinhalese Sports Club Ground, Colombo",4,2
+India,Sydney Cricket Ground,7,0
+Australia,Galle International Stadium,7,5
+Sri Lanka,Galle International Stadium,40,21
+South Africa,Eden Park,1,0
+New Zealand,Eden Park,5,4
+New Zealand,"Basin Reserve, Wellington",7,3
+South Africa,"Basin Reserve, Wellington",1,1
+West Indies,Antigua Recreation Ground,2,0
+England,Antigua Recreation Ground,1,0
+Pakistan,Rawalpindi Cricket Stadium,10,3
+India,Rawalpindi Cricket Stadium,1,1
+England,Edgbaston,12,8
+West Indies,Edgbaston,3,0
+England,Kennington Oval,15,9
+West Indies,Kennington Oval,1,0
+Australia,MA Chidambaram Stadium,1,0
+India,MA Chidambaram Stadium,3,1
+New Zealand,MA Aziz Stadium,1,1
+Bangladesh,MA Aziz Stadium,1,0
+India,Wankhede Stadium,5,3
+Australia,Wankhede Stadium,1,0
+New Zealand,Brisbane Cricket Ground,1,0
+Australia,Brisbane Cricket Ground,2,1
+South Africa,Green Park,2,0
+India,Green Park,4,3
+Australia,Adelaide Oval,21,16
+New Zealand,Adelaide Oval,3,0
+South Africa,Eden Gardens,2,0
+India,Eden Gardens,9,6
+Bangladesh,Bangabandhu National Stadium,1,0
+India,Bangabandhu National Stadium,1,1
+Australia,W.A.C.A. Ground,3,3
+Pakistan,W.A.C.A. Ground,1,0
+South Africa,Newlands,22,15
+England,Newlands,4,1
+Zimbabwe,Newlands,1,0
+New Zealand,AMI Stadium,2,1
+Australia,AMI Stadium,1,1
+Zimbabwe,SuperSport Park,1,0
+South Africa,SuperSport Park,16,14
+Australia,Basin Reserve,3,2
+New Zealand,Basin Reserve,21,9
+Sri Lanka,Basin Reserve,3,1
+West Indies,Kensington Oval,1,0
+South Africa,Kensington Oval,1,1
+South Africa,Antigua Recreation Ground,1,0
+Bangladesh,Riverside Ground,1,0
+England,Riverside Ground,5,5
+Australia,"Lord's, London",3,2
+England,"Lord's, London",12,7
+Australia,"Edgbaston, Birmingham",2,1
+New Zealand,Harare Sports Club,1,1
+Zimbabwe,Harare Sports Club,15,4
+Zimbabwe,Queens Sports Club,8,0
+New Zealand,Queens Sports Club,4,4
+Australia,"Trent Bridge, Nottingham",1,0
+Australia,"Kennington Oval, London",3,1
+Bangladesh,R.Premadasa Stadium,1,0
+Sri Lanka,R.Premadasa Stadium,1,1
+India,Queens Sports Club,1,1
+Sri Lanka,P Sara Oval,12,6
+Bangladesh,P Sara Oval,3,1
+ICC World XI,Sydney Cricket Ground,1,0
+England,Multan Cricket Stadium,4,2
+West Indies,Bellerive Oval,2,0
+Australia,Bellerive Oval,7,5
+Pakistan,Iqbal Stadium,2,0
+England,Iqbal Stadium,1,0
+India,Sardar Patel Stadium,1,1
+Sri Lanka,Sardar Patel Stadium,1,0
+South Africa,Melbourne Cricket Ground,3,1
+South Africa,Sydney Cricket Ground,3,0
+India,Iqbal Stadium,1,0
+Pakistan,National Stadium,5,3
+India,National Stadium,1,0
+Bangladesh,Zahur Ahmed Chowdhury Stadium,14,2
+Sri Lanka,Zahur Ahmed Chowdhury Stadium,3,1
+England,Vidarbha C.A. Ground,1,0
+India,Vidarbha C.A. Ground,1,0
+Bangladesh,Shaheed Chandu Stadium,1,0
+Sri Lanka,Shaheed Chandu Stadium,1,1
+England,"Punjab Cricket Association IS Bindra Stadium, Mohali",2,0
+India,"Punjab Cricket Association IS Bindra Stadium, Mohali",2,2
+West Indies,Eden Park,1,0
+Australia,Newlands,5,2
+Australia,Kingsmead,3,3
+South Africa,Kingsmead,12,3
+South Africa,The Wanderers Stadium,9,5
+Australia,The Wanderers Stadium,2,1
+Sri Lanka,Asgiriya Stadium,3,2
+Pakistan,Asgiriya Stadium,1,1
+Bangladesh,Khan Shaheb Osman Ali Stadium,2,0
+Australia,Khan Shaheb Osman Ali Stadium,1,1
+New Zealand,SuperSport Park,3,0
+New Zealand,Newlands,2,0
+New Zealand,The Wanderers Stadium,2,0
+England,Lord's,28,13
+Sri Lanka,Lord's,4,0
+Sri Lanka,Edgbaston,1,0
+India,"Antigua Recreation Ground, St John's",1,0
+West Indies,"Antigua Recreation Ground, St John's",2,0
+Sri Lanka,Trent Bridge,1,1
+England,Trent Bridge,11,6
+India,"Daren Sammy National Cricket Stadium, Gros Islet",1,0
+West Indies,"Daren Sammy National Cricket Stadium, Gros Islet",2,0
+West Indies,"Warner Park, Basseterre",3,0
+India,"Warner Park, Basseterre",1,0
+India,"Sabina Park, Kingston",3,2
+West Indies,"Sabina Park, Kingston",10,3
+Pakistan,Lord's,5,2
+South Africa,Sinhalese Sports Club Ground,3,0
+Sri Lanka,Sinhalese Sports Club Ground,16,7
+Pakistan,Old Trafford,3,0
+England,Old Trafford,12,10
+England,Headingley,12,6
+Pakistan,Headingley,3,1
+South Africa,P Sara Oval,1,0
+Pakistan,Kennington Oval,3,2
+West Indies,Gaddafi Stadium,1,0
+Pakistan,Gaddafi Stadium,3,1
+West Indies,Multan Cricket Stadium,3,1
+Australia,"Brisbane Cricket Ground, Woolloongabba",14,12
+England,"Brisbane Cricket Ground, Woolloongabba",4,0
+England,Adelaide Oval,6,1
+Sri Lanka,AMI Stadium,1,0
+England,W.A.C.A. Ground,2,0
+India,The Wanderers Stadium,2,2
+India,Kingsmead,3,1
+India,Newlands,3,0
+South Africa,St George's Park,9,4
+Pakistan,St George's Park,1,1
+Pakistan,Newlands,3,0
+West Indies,Lord's,4,0
+India,Zahur Ahmed Chowdhury Stadium,2,1
+West Indies,Headingley,2,1
+India,"Shere Bangla National Stadium, Mirpur",2,2
+Bangladesh,"Shere Bangla National Stadium, Mirpur",14,7
+West Indies,Old Trafford,3,0
+West Indies,Riverside Ground,2,0
+Bangladesh,Sinhalese Sports Club Ground,1,0
+Bangladesh,Asgiriya Stadium,1,0
+India,Lord's,4,1
+India,Trent Bridge,4,2
+India,Kennington Oval,4,0
+South Africa,National Stadium,2,1
+South Africa,Gaddafi Stadium,1,0
+Sri Lanka,"Brisbane Cricket Ground, Woolloongabba",2,0
+Sri Lanka,Bellerive Oval,2,0
+Pakistan,Arun Jaitley Stadium,1,0
+India,Arun Jaitley Stadium,2,1
+Pakistan,Eden Gardens,1,0
+England,Asgiriya Stadium,1,0
+India,M.Chinnaswamy Stadium,1,0
+Pakistan,M.Chinnaswamy Stadium,1,0
+England,Sinhalese Sports Club Ground,2,1
+England,Galle International Stadium,5,3
+India,Melbourne Cricket Ground,6,2
+West Indies,St George's Park,2,1
+West Indies,Newlands,2,0
+New Zealand,University Oval,7,3
+Bangladesh,University Oval,1,0
+West Indies,Kingsmead,1,0
+Bangladesh,Basin Reserve,3,0
+Australia,Western Australia Cricket Association Ground,9,4
+India,Western Australia Cricket Association Ground,2,1
+India,Adelaide Oval,6,1
+Bangladesh,Shere Bangla National Stadium,14,2
+South Africa,Shere Bangla National Stadium,2,1
+Bangladesh,Chittagong Divisional Stadium,2,0
+South Africa,Chittagong Divisional Stadium,1,1
+New Zealand,Seddon Park,14,8
+England,Seddon Park,2,0
+England,Basin Reserve,2,1
+New Zealand,McLean Park,4,1
+England,McLean Park,1,1
+West Indies,Providence Stadium,2,1
+Sri Lanka,Providence Stadium,1,1
+India,"MA Chidambaram Stadium, Chepauk",4,3
+South Africa,"MA Chidambaram Stadium, Chepauk",1,0
+India,"Sardar Patel Stadium, Motera",4,1
+South Africa,"Sardar Patel Stadium, Motera",1,1
+West Indies,"Queen's Park Oval, Port of Spain",7,3
+Sri Lanka,"Queen's Park Oval, Port of Spain",2,0
+New Zealand,Lord's,3,0
+Australia,"Sabina Park, Kingston",2,2
+New Zealand,Old Trafford,1,0
+West Indies,"Sir Vivian Richards Stadium, North Sound",5,1
+Australia,"Sir Vivian Richards Stadium, North Sound",1,0
+New Zealand,Trent Bridge,1,0
+West Indies,"Kensington Oval, Bridgetown",10,3
+Australia,"Kensington Oval, Bridgetown",2,2
+South Africa,Lord's,3,1
+South Africa,Headingley,2,1
+India,Sinhalese Sports Club Ground,4,2
+South Africa,Edgbaston,1,1
+India,Galle International Stadium,5,3
+South Africa,Kennington Oval,3,1
+Sri Lanka,P Saravanamuttu Stadium,1,1
+India,P Saravanamuttu Stadium,1,0
+India,M Chinnaswamy Stadium,5,3
+Australia,M Chinnaswamy Stadium,3,0
+India,"Punjab Cricket Association Stadium, Mohali",5,4
+Australia,"Punjab Cricket Association Stadium, Mohali",3,0
+New Zealand,Shere Bangla National Stadium,2,0
+India,Feroz Shah Kotla,4,3
+Australia,Feroz Shah Kotla,2,0
+India,"Vidarbha Cricket Association Stadium, Jamtha",6,4
+Australia,"Vidarbha Cricket Association Stadium, Jamtha",1,0
+South Africa,OUTsurance Oval,1,1
+Bangladesh,OUTsurance Oval,1,0
+New Zealand,"Brisbane Cricket Ground, Woolloongabba",3,0
+Bangladesh,SuperSport Park,1,0
+England,"MA Chidambaram Stadium, Chepauk",2,0
+South Africa,Western Australia Cricket Association Ground,3,3
+England,"Punjab Cricket Association Stadium, Mohali",1,0
+Sri Lanka,Chittagong Divisional Stadium,1,1
+England,"Sabina Park, Kingston",1,0
+England,"Sir Vivian Richards Stadium, North Sound",2,0
+England,"Antigua Recreation Ground, St John's",1,0
+Sri Lanka,National Stadium,2,0
+England,"Kensington Oval, Bridgetown",2,0
+South Africa,New Wanderers Stadium,7,3
+Australia,New Wanderers Stadium,2,2
+Sri Lanka,Gaddafi Stadium,1,0
+England,"Queen's Park Oval, Port of Spain",1,0
+India,Seddon Park,1,1
+India,McLean Park,1,0
+India,Basin Reserve,3,0
+Pakistan,Galle International Stadium,7,3
+England,Sophia Gardens,3,2
+Australia,Sophia Gardens,2,0
+West Indies,"Arnos Vale Ground, Kingstown",2,1
+Bangladesh,"Arnos Vale Ground, Kingstown",2,1
+Pakistan,P Sara Oval,2,0
+Australia,Lord's,5,2
+West Indies,"National Cricket Stadium, St George's",2,0
+Bangladesh,"National Cricket Stadium, St George's",1,1
+Pakistan,Sinhalese Sports Club Ground,3,0
+Australia,Edgbaston,3,1
+Australia,Headingley,3,1
+New Zealand,Galle International Stadium,5,0
+Australia,Kennington Oval,4,1
+New Zealand,Sinhalese Sports Club Ground,1,0
+Sri Lanka,"Sardar Patel Stadium, Motera",1,0
+Sri Lanka,Green Park,1,0
+Pakistan,University Oval,1,0
+West Indies,"Brisbane Cricket Ground, Woolloongabba",1,0
+India,Brabourne Stadium,1,1
+Sri Lanka,Brabourne Stadium,1,0
+Pakistan,Basin Reserve,2,1
+West Indies,Adelaide Oval,3,0
+Pakistan,McLean Park,1,0
+England,SuperSport Park,3,0
+West Indies,Western Australia Cricket Association Ground,1,0
+Pakistan,Melbourne Cricket Ground,3,0
+England,Kingsmead,2,2
+Pakistan,Sydney Cricket Ground,3,0
+Pakistan,Bellerive Oval,1,0
+England,New Wanderers Stadium,2,1
+India,Shere Bangla National Stadium,1,1
+South Africa,"Vidarbha Cricket Association Stadium, Jamtha",2,1
+Bangladesh,Seddon Park,2,0
+Bangladesh,Zohur Ahmed Chowdhury Stadium,1,0
+England,Zohur Ahmed Chowdhury Stadium,1,1
+England,Shere Bangla National Stadium,2,1
+Australia,Seddon Park,1,1
+Bangladesh,Lord's,1,0
+Bangladesh,Old Trafford,1,0
+South Africa,"Queen's Park Oval, Port of Spain",1,1
+South Africa,"Warner Park, Basseterre",1,0
+South Africa,"Kensington Oval, Bridgetown",1,1
+Pakistan,Trent Bridge,1,0
+India,P Sara Oval,2,2
+Pakistan,Edgbaston,2,0
+New Zealand,"Sardar Patel Stadium, Motera",1,0
+India,"Rajiv Gandhi International Stadium, Uppal",5,4
+New Zealand,"Rajiv Gandhi International Stadium, Uppal",2,0
+Pakistan,Dubai International Cricket Stadium,13,7
+South Africa,Dubai International Cricket Stadium,2,1
+West Indies,Galle International Stadium,4,0
+Pakistan,Sheikh Zayed Stadium,13,6
+South Africa,Sheikh Zayed Stadium,2,0
+New Zealand,"Vidarbha Cricket Association Stadium, Jamtha",1,0
+Sri Lanka,R Premadasa Stadium,2,1
+West Indies,R Premadasa Stadium,1,0
+Sri Lanka,Pallekele International Cricket Stadium,9,2
+West Indies,Pallekele International Cricket Stadium,1,0
+India,SuperSport Park,2,0
+England,Western Australia Cricket Association Ground,2,0
+Pakistan,Seddon Park,2,1
+Pakistan,Providence Stadium,1,0
+Pakistan,"Warner Park, Basseterre",1,1
+Sri Lanka,Sophia Gardens,1,0
+England,The Rose Bowl,6,2
+Sri Lanka,The Rose Bowl,1,0
+India,"Kensington Oval, Bridgetown",1,0
+West Indies,"Windsor Park, Roseau",5,1
+India,"Windsor Park, Roseau",1,0
+Bangladesh,Harare Sports Club,5,2
+India,Edgbaston,2,0
+Pakistan,Queens Sports Club,1,1
+Australia,Pallekele International Cricket Stadium,2,0
+Australia,Sinhalese Sports Club Ground,2,0
+Sri Lanka,Sheikh Zayed Stadium,3,1
+West Indies,Zahur Ahmed Chowdhury Stadium,3,1
+Sri Lanka,Dubai International Cricket Stadium,3,2
+West Indies,Shere Bangla National Stadium,3,3
+Pakistan,Sharjah Cricket Stadium,5,2
+Sri Lanka,Sharjah Cricket Stadium,2,0
+West Indies,Feroz Shah Kotla,1,0
+West Indies,Eden Gardens,2,0
+West Indies,Wankhede Stadium,2,0
+Pakistan,Zahur Ahmed Chowdhury Stadium,1,1
+New Zealand,Bellerive Oval,1,1
+Sri Lanka,SuperSport Park,2,0
+Pakistan,Shere Bangla National Stadium,2,2
+Sri Lanka,Kingsmead,2,2
+Sri Lanka,Newlands,2,0
+England,Dubai International Cricket Stadium,3,0
+England,Sheikh Zayed Stadium,2,0
+Zimbabwe,McLean Park,1,0
+South Africa,University Oval,2,0
+South Africa,Seddon Park,2,1
+South Africa,Basin Reserve,2,1
+England,P Sara Oval,1,1
+Australia,"Queen's Park Oval, Port of Spain",1,0
+Australia,"Windsor Park, Roseau",2,2
+West Indies,Trent Bridge,1,0
+Pakistan,Pallekele International Cricket Stadium,2,1
+New Zealand,"Sir Vivian Richards Stadium, North Sound",1,0
+New Zealand,"Sabina Park, Kingston",2,1
+New Zealand,M Chinnaswamy Stadium,1,0
+South Africa,"Brisbane Cricket Ground, Woolloongabba",1,0
+England,"Sardar Patel Stadium, Motera",1,0
+Bangladesh,Sheikh Abu Naser Stadium,3,1
+West Indies,Sheikh Abu Naser Stadium,1,1
+South Africa,Adelaide Oval,2,0
+England,Wankhede Stadium,2,1
+New Zealand,P Sara Oval,2,2
+England,Eden Gardens,1,1
+England,"Vidarbha Cricket Association Stadium, Jamtha",1,0
+Sri Lanka,Melbourne Cricket Ground,1,0
+Sri Lanka,Sydney Cricket Ground,1,0
+New Zealand,St George's Park,1,0
+Pakistan,New Wanderers Stadium,1,0
+Australia,"MA Chidambaram Stadium, Chepauk",1,0
+Pakistan,SuperSport Park,2,0
+Australia,"Rajiv Gandhi International Stadium, Uppal",1,0
+England,University Oval,1,0
+Bangladesh,Galle International Stadium,3,0
+Zimbabwe,"Kensington Oval, Bridgetown",1,0
+Bangladesh,R Premadasa Stadium,1,0
+Zimbabwe,"Windsor Park, Roseau",1,0
+England,Eden Park,2,0
+New Zealand,Headingley,2,1
+Australia,Trent Bridge,2,0
+Australia,Old Trafford,2,1
+Australia,Riverside Ground,1,0
+Pakistan,Harare Sports Club,4,3
+New Zealand,Zahur Ahmed Chowdhury Stadium,1,0
+West Indies,University Oval,1,0
+West Indies,Basin Reserve,3,0
+India,New Wanderers Stadium,1,0
+West Indies,Seddon Park,3,0
+Sri Lanka,Shere Bangla National Stadium,1,1
+India,Eden Park,1,0
+Australia,SuperSport Park,1,1
+Australia,St George's Park,2,0
+New Zealand,"Queen's Park Oval, Port of Spain",1,0
+Sri Lanka,Headingley,2,1
+New Zealand,"Kensington Oval, Bridgetown",1,1
+South Africa,Galle International Stadium,2,1
+India,The Rose Bowl,2,0
+India,Old Trafford,1,0
+South Africa,Harare Sports Club,1,1
+West Indies,"Beausejour Stadium, Gros Islet",1,1
+Bangladesh,"Beausejour Stadium, Gros Islet",1,0
+Australia,Dubai International Cricket Stadium,2,0
+Zimbabwe,Shere Bangla National Stadium,1,0
+Australia,Sheikh Zayed Stadium,2,0
+Zimbabwe,Sheikh Abu Naser Stadium,1,0
+New Zealand,Sheikh Zayed Stadium,3,2
+Zimbabwe,Zahur Ahmed Chowdhury Stadium,1,0
+New Zealand,Dubai International Cricket Stadium,2,0
+New Zealand,Sharjah Cricket Stadium,1,1
+India,"Brisbane Cricket Ground, Woolloongabba",1,0
+West Indies,SuperSport Park,1,0
+New Zealand,Hagley Oval,8,6
+Sri Lanka,Hagley Oval,2,0
+England,"National Cricket Stadium, St George's",1,1
+Pakistan,Sheikh Abu Naser Stadium,1,0
+India,Khan Shaheb Osman Ali Stadium,1,0
+South Africa,Zahur Ahmed Chowdhury Stadium,1,0
+West Indies,P Sara Oval,1,0
+England,Sharjah Cricket Stadium,1,0
+South Africa,"Punjab Cricket Association Stadium, Mohali",1,0
+New Zealand,Western Australia Cricket Association Ground,1,0
+South Africa,M Chinnaswamy Stadium,1,0
+South Africa,Feroz Shah Kotla,1,0
+Sri Lanka,University Oval,1,0
+Sri Lanka,Seddon Park,1,0
+West Indies,Melbourne Cricket Ground,1,0
+West Indies,Sydney Cricket Ground,1,0
+Australia,Hagley Oval,1,1
+Sri Lanka,Riverside Ground,1,0
+India,"Sir Vivian Richards Stadium, North Sound",1,1
+West Indies,"Darren Sammy National Cricket Stadium, Gros Islet",1,0
+India,"Darren Sammy National Cricket Stadium, Gros Islet",1,1
+India,"Queen's Park Oval, Port of Spain",1,0
+New Zealand,Kingsmead,1,0
+New Zealand,Green Park,1,0
+New Zealand,Eden Gardens,1,0
+India,Holkar Cricket Stadium,2,2
+New Zealand,Holkar Cricket Stadium,1,0
+West Indies,Dubai International Cricket Stadium,1,0
+England,Zahur Ahmed Chowdhury Stadium,1,1
+West Indies,Sheikh Zayed Stadium,1,0
+Sri Lanka,Harare Sports Club,4,3
+West Indies,Sharjah Cricket Stadium,1,1
+India,Saurashtra Cricket Association Stadium,2,1
+England,Saurashtra Cricket Association Stadium,1,0
+South Africa,Bellerive Oval,1,1
+Pakistan,Hagley Oval,2,0
+India,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,2,2
+England,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,1,0
+Pakistan,"Brisbane Cricket Ground, Woolloongabba",2,0
+Sri Lanka,St George's Park,2,1
+Sri Lanka,New Wanderers Stadium,1,0
+Bangladesh,Hagley Oval,1,0
+Bangladesh,"Rajiv Gandhi International Stadium, Uppal",1,0
+India,Maharashtra Cricket Association Stadium,2,1
+Australia,Maharashtra Cricket Association Stadium,1,1
+India,JSCA International Stadium Complex,2,1
+Australia,JSCA International Stadium Complex,1,0
+India,Himachal Pradesh Cricket Association Stadium,1,1
+Australia,Himachal Pradesh Cricket Association Stadium,1,0
+Pakistan,"Sabina Park, Kingston",1,1
+Pakistan,"Kensington Oval, Bridgetown",1,0
+Pakistan,"Windsor Park, Roseau",1,1
+Zimbabwe,"R.Premadasa Stadium, Khettarama",1,0
+Sri Lanka,"R.Premadasa Stadium, Khettarama",1,1
+South Africa,Trent Bridge,1,1
+South Africa,Old Trafford,1,0
+India,Pallekele International Cricket Stadium,1,1
+Australia,"Shere Bangla National Stadium, Mirpur",1,0
+Australia,Zahur Ahmed Chowdhury Stadium,1,1
+South Africa,Senwes Park,1,1
+Bangladesh,Senwes Park,1,0
+South Africa,Mangaung Oval,1,1
+Bangladesh,Mangaung Oval,1,0
+West Indies,Queens Sports Club,2,1
+Sri Lanka,Eden Gardens,1,0
+Sri Lanka,"Vidarbha Cricket Association Stadium, Jamtha",1,0
+Sri Lanka,Arun Jaitley Stadium,1,0
+South Africa,"St George's Park, Port Elizabeth",2,2
+Zimbabwe,"St George's Park, Port Elizabeth",1,0
+Sri Lanka,"Shere Bangla National Stadium, Mirpur",2,2
+England,Hagley Oval,1,0
+Ireland,"The Village, Malahide",1,0
+Pakistan,"The Village, Malahide",1,1
+Sri Lanka,"Daren Sammy National Cricket Stadium, Gros Islet",1,0
+Sri Lanka,"Kensington Oval, Bridgetown",1,1
+Bangladesh,Sir Vivian Richards Stadium,1,0
+West Indies,Sir Vivian Richards Stadium,3,1
+Bangladesh,"Sabina Park, Kingston",1,0
+West Indies,Saurashtra Cricket Association Stadium,1,0
+West Indies,"Rajiv Gandhi International Stadium, Uppal",1,0
+Zimbabwe,Sylhet International Cricket Stadium,2,2
+Bangladesh,Sylhet International Cricket Stadium,6,3
+Zimbabwe,"Shere Bangla National Stadium, Mirpur",2,0
+England,Pallekele International Cricket Stadium,1,1
+West Indies,"Shere Bangla National Stadium, Mirpur",1,0
+Australia,Perth Stadium,6,5
+India,Perth Stadium,2,1
+Sri Lanka,"Basin Reserve, Wellington",2,0
+Pakistan,The Wanderers Stadium,1,0
+West Indies,"Kensington Oval, Barbados",1,1
+England,"Kensington Oval, Barbados",1,0
+West Indies,"Sir Vivian Richards Stadium, Antigua",2,1
+England,"Sir Vivian Richards Stadium, Antigua",1,0
+Australia,Manuka Oval,1,1
+Sri Lanka,Manuka Oval,1,0
+West Indies,"Daren Sammy National Cricket Stadium, St Lucia",1,0
+England,"Daren Sammy National Cricket Stadium, St Lucia",1,1
+Ireland,Lord's,1,0
+India,"Sir Vivian Richards Stadium, Antigua",1,1
+West Indies,"Sabina Park, Jamaica",1,0
+India,"Sabina Park, Jamaica",1,1
+South Africa,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,1,0
+South Africa,Maharashtra Cricket Association Stadium,1,0
+South Africa,JSCA International Stadium Complex,1,0
+Bangladesh,Holkar Cricket Stadium,1,0
+New Zealand,Bay Oval,2,2
+England,Bay Oval,1,0
+Bangladesh,Eden Gardens,1,0
+Pakistan,Adelaide Oval,1,0
+Sri Lanka,Rawalpindi Cricket Stadium,1,0
+New Zealand,Perth Stadium,1,0
+New Zealand,Melbourne Cricket Ground,1,0
+New Zealand,Sydney Cricket Ground,1,0
+England,St George's Park,1,1
+England,The Wanderers Stadium,1,1
+Bangladesh,Rawalpindi Cricket Stadium,3,2
+India,Hagley Oval,1,0
+West Indies,The Rose Bowl,1,1
+Pakistan,The Rose Bowl,2,0
+Pakistan,Bay Oval,1,0
+Sri Lanka,The Wanderers Stadium,1,0
+India,Brisbane Cricket Ground,1,1
+South Africa,Rawalpindi Cricket Stadium,2,1
+England,MA Chidambaram Stadium,2,1
+England,Narendra Modi Stadium,2,0
+India,Narendra Modi Stadium,2,2
+Sri Lanka,Sir Vivian Richards Stadium,2,0
+Bangladesh,Pallekele International Cricket Stadium,2,0
+New Zealand,"Lord's, London",3,0
+West Indies,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",3,1
+South Africa,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",2,2
+New Zealand,"Edgbaston, Birmingham",1,1
+India,"The Rose Bowl, Southampton",1,0
+New Zealand,"The Rose Bowl, Southampton",1,1
+India,"Trent Bridge, Nottingham",1,0
+Pakistan,"Sabina Park, Kingston, Jamaica",2,1
+West Indies,"Sabina Park, Kingston, Jamaica",4,1
+India,"Lord's, London",2,1
+India,"Headingley, Leeds",2,0
+India,"Kennington Oval, London",3,2
+India,"Green Park, Kanpur",2,1
+New Zealand,"Green Park, Kanpur",1,0
+Bangladesh,"Zahur Ahmed Chowdhury Stadium, Chattogram",6,1
+Pakistan,"Zahur Ahmed Chowdhury Stadium, Chattogram",1,1
+India,"Wankhede Stadium, Mumbai",2,1
+New Zealand,"Wankhede Stadium, Mumbai",2,1
+Pakistan,"Shere Bangla National Stadium, Mirpur",2,1
+England,"Brisbane Cricket Ground, Woolloongabba, Brisbane",2,0
+India,"SuperSport Park, Centurion",2,1
+South Africa,"SuperSport Park, Centurion",4,3
+New Zealand,"Bay Oval, Mount Maunganui",4,2
+Bangladesh,"Bay Oval, Mount Maunganui",1,1
+India,"The Wanderers Stadium, Johannesburg",1,0
+South Africa,"The Wanderers Stadium, Johannesburg",2,2
+New Zealand,"Hagley Oval, Christchurch",7,3
+Bangladesh,"Hagley Oval, Christchurch",1,0
+India,"Newlands, Cape Town",2,1
+Australia,"Bellerive Oval, Hobart",1,1
+England,"Bellerive Oval, Hobart",1,0
+South Africa,"Hagley Oval, Christchurch",2,1
+India,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1,1
+Sri Lanka,"Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",1,0
+Australia,Rawalpindi Cricket Stadium,1,0
+England,"Sir Vivian Richards Stadium, North Sound, Antigua",1,0
+West Indies,"Sir Vivian Richards Stadium, North Sound, Antigua",5,3
+India,"M Chinnaswamy Stadium, Bengaluru",2,1
+Sri Lanka,"M Chinnaswamy Stadium, Bengaluru",1,0
+Australia,"National Stadium, Karachi",1,0
+Pakistan,"National Stadium, Karachi",4,0
+England,"Kensington Oval, Bridgetown, Barbados",1,0
+West Indies,"Kensington Oval, Bridgetown, Barbados",2,0
+Australia,"Gaddafi Stadium, Lahore",1,1
+England,"National Cricket Stadium, St George's, Grenada",1,0
+West Indies,"National Cricket Stadium, St George's, Grenada",2,1
+Bangladesh,"Kingsmead, Durban",1,0
+Bangladesh,"St George's Park, Port Elizabeth",1,0
+Sri Lanka,"Zahur Ahmed Chowdhury Stadium, Chattogram",2,1
+New Zealand,"Trent Bridge, Nottingham",2,1
+Bangladesh,"Sir Vivian Richards Stadium, North Sound, Antigua",2,0
+New Zealand,"Headingley, Leeds",1,0
+Bangladesh,"Daren Sammy National Cricket Stadium, Gros Islet, St Lucia",1,0
+India,"Edgbaston, Birmingham",2,1
+South Africa,"Lord's, London",2,2
+South Africa,"Old Trafford, Manchester",1,0
+England,"Old Trafford, Manchester",4,2
+West Indies,Perth Stadium,1,0
+England,Rawalpindi Cricket Stadium,2,1
+India,"Zahur Ahmed Chowdhury Stadium, Chattogram",1,1
+South Africa,"Brisbane Cricket Ground, Woolloongabba, Brisbane",1,0
+England,"National Stadium, Karachi",1,1
+New Zealand,"National Stadium, Karachi",2,0
+Australia,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",1,0
+India,"Vidarbha Cricket Association Stadium, Jamtha, Nagpur",1,1
+England,"Bay Oval, Mount Maunganui",1,1
+Australia,"Arun Jaitley Stadium, Delhi",1,0
+India,"Arun Jaitley Stadium, Delhi",2,2
+England,"Basin Reserve, Wellington",2,1
+West Indies,"SuperSport Park, Centurion",1,0
+India,"Holkar Cricket Stadium, Indore",1,0
+Australia,"Holkar Cricket Stadium, Indore",1,1
+West Indies,"The Wanderers Stadium, Johannesburg",1,0
+Sri Lanka,"Hagley Oval, Christchurch",1,0
+Australia,"Narendra Modi Stadium, Ahmedabad",1,0
+India,"Narendra Modi Stadium, Ahmedabad",2,1
+Ireland,"Shere Bangla National Stadium, Mirpur",2,0
+Ireland,Galle International Stadium,2,0
+Ireland,"Lord's, London",1,0
+Australia,"Headingley, Leeds",1,0
+West Indies,"Windsor Park, Roseau, Dominica",1,0
+India,"Windsor Park, Roseau, Dominica",1,1
+Australia,"Old Trafford, Manchester",1,0
+India,"Queen's Park Oval, Port of Spain, Trinidad",1,0
+West Indies,"Queen's Park Oval, Port of Spain, Trinidad",3,0
+Pakistan,"Sinhalese Sports Club Ground, Colombo",1,1
+New Zealand,Sylhet International Cricket Stadium,1,0
+New Zealand,"Shere Bangla National Stadium, Mirpur",1,1
+Pakistan,Perth Stadium,1,0
+West Indies,"Brisbane Cricket Ground, Woolloongabba, Brisbane",1,1
+England,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,1
+India,"Rajiv Gandhi International Stadium, Uppal, Hyderabad",1,0
+India,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1,1
+England,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",1,0
+South Africa,"Bay Oval, Mount Maunganui",1,0
+South Africa,"Seddon Park, Hamilton",1,0
+New Zealand,"Seddon Park, Hamilton",2,2
+India,"Saurashtra Cricket Association Stadium, Rajkot",1,1
+England,"Saurashtra Cricket Association Stadium, Rajkot",1,0
+England,"JSCA International Stadium Complex, Ranchi",1,0
+India,"JSCA International Stadium Complex, Ranchi",1,1
+Australia,"Basin Reserve, Wellington",1,1
+England,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1,0
+India,"Himachal Pradesh Cricket Association Stadium, Dharamsala",1,1
+Australia,"Hagley Oval, Christchurch",1,1
+Sri Lanka,Sylhet International Cricket Stadium,1,1
+West Indies,"Lord's, London",1,0
+West Indies,"Trent Bridge, Nottingham",1,0
+Zimbabwe,"Civil Service Cricket Club, Stormont, Belfast",1,0
+Ireland,"Civil Service Cricket Club, Stormont, Belfast",2,1
+West Indies,"Edgbaston, Birmingham",1,0
+South Africa,"Queen's Park Oval, Port of Spain, Trinidad",1,0
+South Africa,"Providence Stadium, Guyana",1,1
+West Indies,"Providence Stadium, Guyana",1,0
+Sri Lanka,"Old Trafford, Manchester",1,0
+Sri Lanka,"Lord's, London",1,0
+Sri Lanka,"Kennington Oval, London",1,1
+India,"MA Chidambaram Stadium, Chepauk, Chennai",1,1
+Bangladesh,"MA Chidambaram Stadium, Chepauk, Chennai",1,0
+Bangladesh,"Green Park, Kanpur",1,0
+New Zealand,"M Chinnaswamy Stadium, Bengaluru",1,1
+South Africa,"Shere Bangla National Stadium, Mirpur",1,1
+New Zealand,"Maharashtra Cricket Association Stadium, Pune",1,1
+India,"Maharashtra Cricket Association Stadium, Pune",1,0
+South Africa,"Zahur Ahmed Chowdhury Stadium, Chattogram",1,1
+Sri Lanka,"Kingsmead, Durban",1,0
+England,"Hagley Oval, Christchurch",1,1
+Bangladesh,"Sabina Park, Kingston, Jamaica",1,1
+South Africa,"St George's Park, Gqeberha",1,1
+Sri Lanka,"St George's Park, Gqeberha",1,0
+England,"Seddon Park, Hamilton",1,0
+Pakistan,"SuperSport Park, Centurion",1,0
+Ireland,"Queens Sports Club, Bulawayo",1,1
+Zimbabwe,"Zahur Ahmed Chowdhury Stadium, Chattogram",1,0
+Zimbabwe,"Trent Bridge, Nottingham",1,0
+Australia,"Kensington Oval, Bridgetown, Barbados",1,1
+Bangladesh,"Sinhalese Sports Club Ground, Colombo",1,0
+South Africa,"Queens Sports Club, Bulawayo",2,2
+Australia,"National Cricket Stadium, St George's, Grenada",1,1
+Australia,"Sabina Park, Kingston, Jamaica",1,1
+India,"Old Trafford, Manchester",1,0
+New Zealand,"Queens Sports Club, Bulawayo",2,2
+West Indies,"Narendra Modi Stadium, Ahmedabad",1,0
+West Indies,"Arun Jaitley Stadium, Delhi",1,0
+Ireland,Sylhet International Cricket Stadium,1,0
+South Africa,"Eden Gardens, Kolkata",1,1
+India,"Eden Gardens, Kolkata",1,0
+England,Perth Stadium,1,0
+South Africa,"Barsapara Cricket Stadium, Guwahati",1,1
+India,"Barsapara Cricket Stadium, Guwahati",1,0
+West Indies,"Hagley Oval, Christchurch",1,0
+West Indies,"Basin Reserve, Wellington",1,0
+West Indies,"Bay Oval, Mount Maunganui",1,0
+Pakistan,Sylhet International Cricket Stadium,1,0
+New Zealand,"Civil Service Cricket Club, Stormont, Belfast",1,1
+New Zealand,"Kennington Oval, London",1,1
+Sri Lanka,"Sir Vivian Richards Stadium, North Sound, Antigua",2,0
+West Indies,"Brian Lara Stadium, Tarouba, Trinidad",1,1
+Pakistan,"Brian Lara Stadium, Tarouba, Trinidad",1,0
+Pakistan,"Queen's Park Oval, Port of Spain, Trinidad",1,1
+Australia,"Marrara Stadium, Darwin",1,0
+Bangladesh,"Marrara Stadium, Darwin",1,1
+Pakistan,"Headingley, Leeds",1,0
+Bangladesh,"Great Barrier Reef Arena, Mackay",1,0
+Australia,"Great Barrier Reef Arena, Mackay",1,1
+India,"Sinhalese Sports Club Ground, Colombo",1,0
+Pakistan,"Lord's, London",1,0
+Bangladesh,AMI Stadium,0,0

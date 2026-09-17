@@ -1,0 +1,25 @@
+OBSERVATION – EXPERIMENT 5
+
+Title: Ridge, Lasso and Elastic Net Regularization
+
+Dataset: Hospital Appointment Waiting Time Synthetic Dataset
+
+The Hospital Appointment Waiting Time Synthetic Dataset was loaded using Pandas from the specified CSV file path. The dataset was inspected to understand its structure, dimensions, numerical and categorical attributes, missing values, duplicate records, and descriptive statistics. The dataset contains 100,000 records and 12 attributes, with 9 categorical features and 3 numerical features. The target variable used for prediction is waiting_time.
+
+The numerical and categorical features were identified separately. The categorical features were encoded using One-Hot Encoding, while the numerical features were standardized using StandardScaler. The dataset was divided into training and testing sets using an 80:20 split.
+
+A Linear Regression model was implemented as the baseline model. Ridge Regression was then implemented using L2 regularization, Lasso Regression was implemented using L1 regularization, and Elastic Net Regression was implemented using a combination of L1 and L2 regularization.
+
+The models were evaluated using Mean Absolute Error (MAE), Mean Squared Error (MSE), Root Mean Squared Error (RMSE), and R² Score. The performance of the models was compared to determine the effect of regularization on predicting hospital appointment waiting time.
+
+Data visualizations were generated to analyze the numerical features, feature relationships, correlations, actual versus predicted values, and model performance. A correlation heatmap was used to visualize relationships between numerical variables. Distribution plots and scatter plots were used for exploratory data analysis, including the relationship between queue position, consultation duration, and waiting time.
+
+A coefficient comparison was performed to observe the effect of regularization. Ridge Regression reduces the magnitude of coefficients through L2 regularization, while Lasso Regression can reduce some coefficients to exactly zero through L1 regularization. Elastic Net combines both L1 and L2 regularization effects.
+
+The results obtained from the models were compared using the calculated evaluation metrics. The model with the highest R² Score was identified as the best-performing model for the experiment.
+
+An EDA report was generated containing the important visualizations and observations obtained during the analysis.
+
+Result:
+
+Ridge, Lasso, and Elastic Net Regularization were successfully implemented on the Hospital Appointment Waiting Time Synthetic Dataset. The models were evaluated and compared using standard regression metrics, and the effect of regularization on model coefficients and prediction performance for hospital waiting-time prediction was observed successfully.

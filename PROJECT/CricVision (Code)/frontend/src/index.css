@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500&display=swap');
+@import 'tailwindcss';
+
+@theme inline {
+  --font-display: 'Outfit', sans-serif;
+  --font-sans: 'Inter', sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+
+  /* iOS dark palette */
+  --color-ground:   #0c0c14;
+  --color-ios-blue: #0a84ff;
+  --color-ios-green:#30d158;
+  --color-ios-red:  #ff453a;
+  --color-ios-amber:#ffd60a;
+
+  /* Text — iOS dark label hierarchy */
+  --color-label-1:  #f2f2f7;
+  --color-label-2:  rgba(235,235,245,0.60);
+  --color-label-3:  rgba(235,235,245,0.30);
+  --color-label-4:  rgba(235,235,245,0.16);
+
+  /* Separator */
+  --color-sep:      rgba(255,255,255,0.08);
+  --color-sep-bright: rgba(255,255,255,0.14);
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+
+body {
+  margin: 0;
+  font-family: 'Outfit', 'Inter', sans-serif;
+  color: #f2f2f7;
+  -webkit-font-smoothing: antialiased;
+  min-height: 100vh;
+
+  /* Ambient light bleeds that make glass look real */
+  background:
+    radial-gradient(ellipse 70% 55% at 15% 0%,   rgba(10,132,255,0.07) 0%, transparent 60%),
+    radial-gradient(ellipse 55% 40% at 85% 100%,  rgba(48,209,88,0.04)  0%, transparent 60%),
+    radial-gradient(ellipse 40% 30% at 50% 50%,   rgba(10,132,255,0.03) 0%, transparent 70%),
+    #0c0c14;
+  background-attachment: fixed;
+}
+
+/* ─── Glass materials ─────────────────────────────────────────────────────── */
+
+/* Standard card — like iOS widget */
+.glass {
+  background: rgba(255,255,255,0.06);
+  backdrop-filter: blur(32px) saturate(180%);
+  -webkit-backdrop-filter: blur(32px) saturate(180%);
+  border: 1px solid rgba(255,255,255,0.09);
+  box-shadow:
+    inset 0 1px 0 rgba(255,255,255,0.07),
+    0 4px 20px rgba(0,0,0,0.28);
+}
+
+/* Panel — darker, like iOS sidebar / sheet */
+.glass-panel {
+  background: rgba(14,14,22,0.82);
+  backdrop-filter: blur(48px) saturate(180%);
+  -webkit-backdrop-filter: blur(48px) saturate(180%);
+  border-right: 1px solid rgba(255,255,255,0.07);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.04);
+}
+
+/* Elevated — like iOS notification / modal */
+.glass-elevated {
+  background: rgba(28,28,38,0.88);
+  backdrop-filter: blur(40px) saturate(180%);
+  -webkit-backdrop-filter: blur(40px) saturate(180%);
+  border: 1px solid rgba(255,255,255,0.10);
+  box-shadow:
+    inset 0 1px 0 rgba(255,255,255,0.09),
+    0 16px 48px rgba(0,0,0,0.48),
+    0 2px 8px rgba(0,0,0,0.24);
+}
+
+/* Header bar — iOS navigation bar */
+.glass-bar {
+  background: rgba(12,12,20,0.76);
+  backdrop-filter: blur(40px) saturate(180%);
+  -webkit-backdrop-filter: blur(40px) saturate(180%);
+  border-bottom: 1px solid rgba(255,255,255,0.07);
+}
+
+/* Filled accent tint — like iOS primary button on glass */
+.glass-accent {
+  background: rgba(10,132,255,0.18);
+  border: 1px solid rgba(10,132,255,0.28);
+  box-shadow: inset 0 1px 0 rgba(255,255,255,0.10);
+}
+
+/* ─── Segmented control ───────────────────────────────────────────────────── */
+
+.segment-track {
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(255,255,255,0.07);
+  border-radius: 10px;
+  padding: 3px;
+}
+.segment-thumb {
+  background: rgba(255,255,255,0.12);
+  border: 1px solid rgba(255,255,255,0.11);
+  box-shadow:
+    inset 0 1px 0 rgba(255,255,255,0.10),
+    0 1px 4px rgba(0,0,0,0.30);
+}
+
+/* ─── Typography ─────────────────────────────────────────────────────────── */
+
+.font-display { font-family: 'Instrument Sans', sans-serif; }
+.font-mono    { font-family: 'JetBrains Mono', monospace; }
+
+/* ─── Scrollbar ──────────────────────────────────────────────────────────── */
+::-webkit-scrollbar { width: 3px; height: 3px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: rgba(255,255,255,0.12); border-radius: 2px; }
+
+/* ─── Animations ─────────────────────────────────────────────────────────── */
+
+@keyframes fade-up {
+  from { opacity:0; transform:translateY(12px); }
+  to   { opacity:1; transform:translateY(0); }
+}
+@keyframes fade-in {
+  from { opacity:0; } to { opacity:1; }
+}
+@keyframes slide-right {
+  from { opacity:0; transform:translateX(-16px); }
+  to   { opacity:1; transform:translateX(0); }
+}
+@keyframes bar-grow {
+  from { width:0%; }
+}
+@keyframes dot-breathe {
+  0%,100% { opacity:1; }
+  50%      { opacity:0.3; }
+}
+@keyframes spin-smooth {
+  to { transform:rotate(360deg); }
+}
+@keyframes step-in {
+  from { opacity:0; transform:translateX(-8px); }
+  to   { opacity:1; transform:translateX(0); }
+}
+
+.fade-up         { animation: fade-up 0.45s cubic-bezier(0.22,1,0.36,1) forwards; }
+.fade-in         { animation: fade-in 0.3s ease forwards; }
+.slide-right     { animation: slide-right 0.35s cubic-bezier(0.22,1,0.36,1) forwards; }
+.bar-grow        { animation: bar-grow 1s cubic-bezier(0.22,1,0.36,1) forwards; }
+.dot-breathe     { animation: dot-breathe 2s ease-in-out infinite; }
+.spin-smooth     { animation: spin-smooth 1s linear infinite; }
+
+/* Staggered step-in */
+.step-1 { animation: step-in 0.3s 0.0s ease both; }
+.step-2 { animation: step-in 0.3s 0.08s ease both; }
+.step-3 { animation: step-in 0.3s 0.16s ease both; }
+.step-4 { animation: step-in 0.3s 0.24s ease both; }
+.step-5 { animation: step-in 0.3s 0.32s ease both; }
+.step-6 { animation: step-in 0.3s 0.40s ease both; }
+.step-7 { animation: step-in 0.3s 0.48s ease both; }

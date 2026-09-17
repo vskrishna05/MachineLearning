@@ -1,0 +1,25 @@
+OBSERVATION – EXPERIMENT 6
+
+Title: Global Operative Dataset Analysis**
+
+**Dataset: Global Operative Dataset**
+
+The Global Operative Dataset was loaded using Pandas from the specified CSV file path. The dataset was inspected to understand its structure, dimensions, attributes, missing values, duplicate records, and descriptive statistics. The dataset contains 100,000 records and 12 attributes, including categorical and numerical features. The numerical feature used for analysis is **mission_count**.
+
+The categorical and numerical features were identified separately. The categorical attributes include **name, gender, status, affiliation, faction, role, weapon, emotion, location, rank, and loyalty**, while **mission_count** is the numerical attribute. Value counts and descriptive statistics were used to understand the distribution of the different attributes.
+
+Various data analysis operations were performed on the dataset. These included filtering records, sorting operatives based on mission count, searching for specific operative names, calculating average mission counts, and identifying operatives with more than 100 missions.
+
+Group-by operations were performed to calculate the average mission count based on attributes such as **rank, location, and faction**. Frequency analysis was also performed for gender, status, affiliation, faction, role, weapon, location, rank, and loyalty to identify the distribution of operatives across different categories.
+
+Data visualizations were generated to represent the distributions and patterns in the dataset. Bar charts were used to visualize categorical attributes such as rank, status, location, weapon, and gender. A histogram was used to observe the distribution of mission counts among the operatives.
+
+The dataset was also analyzed using cross-tabulation to identify relationships between categorical attributes such as **rank and loyalty** and **faction and weapon**. These operations helped identify patterns and relationships within the Global Operative Dataset.
+
+The results obtained from the different analysis operations were compared to understand operative distributions, mission activity, ranks, locations, factions, weapons, and loyalty levels. The analysis provided meaningful insights into the characteristics and mission activities of the operatives.
+
+An EDA report was generated containing the important visualizations, statistical results, and observations obtained during the analysis.
+
+**Result:**
+
+The Global Operative Dataset was successfully loaded, analyzed, and visualized using Pandas and Matplotlib. Various data analysis operations including filtering, sorting, searching, grouping, statistical analysis, cross-tabulation, and visualization were successfully performed. The patterns and distributions of operative attributes and mission activity were observed successfully.
