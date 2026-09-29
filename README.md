@@ -47,6 +47,8 @@ When these factors are analyzed manually, it can be difficult to combine them co
 
 CricVision addresses this problem by using historical cricket data and machine learning to analyze these factors systematically and provide a data-driven match outcome prediction.
 
+Website Link to access: https://timer-wide-30218079.figma.site/
+
 ---
 
 ## How CricVision Works
