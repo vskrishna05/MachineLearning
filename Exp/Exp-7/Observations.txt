@@ -1,0 +1,70 @@
+EXPERIMENT-7 Random Forests — OOB Error, Bagging, and Feature
+Subsampling
+
+OBSERVATIONS
+
+1.  The John Wick 4 Kill Count dataset was loaded successfully from CSV
+    format and its basic structure, data types, missing values,
+    duplicate records, and statistical summary were examined.
+
+2.  Exploratory Data Analysis showed the distribution of Kill Count and
+    its relationship with numerical attributes such as Bullets_Fired and
+    Headshots. Categorical information such as Weapon was also examined.
+
+3.  Kill Count was selected as the target variable, making this a
+    regression problem.
+
+4.  A Decision Tree Regressor was implemented as the baseline model.
+
+5.  Bagging was implemented using multiple Decision Trees trained on
+    bootstrap samples of the training data. The predictions from the
+    individual trees were combined to obtain the final prediction.
+
+6.  Bootstrap sampling demonstrated that sampling was performed with
+    replacement. Therefore, some training observations could appear more
+    than once, while some observations were left out of a particular
+    bootstrap sample.
+
+7.  The observations left out of a bootstrap sample are called
+    Out-of-Bag (OOB) observations. These observations can be used to
+    estimate model performance without requiring a separate validation
+    set for every tree.
+
+8.  Random Forest was implemented using multiple decision trees,
+    bootstrap sampling, and feature subsampling.
+
+9.  Feature subsampling was demonstrated using the max_features
+    parameter. Different settings such as sqrt, log2, 0.5, and 1.0 were
+    compared to observe their effect on OOB performance.
+
+10. The OOB score was obtained using the oob_score parameter. For
+    regression, the OOB score represents an R²-based estimate of
+    performance.
+
+11. OOB Error was calculated as: OOB Error = 1 - OOB Score
+
+12. Feature importance values were extracted from the trained Random
+    Forest to identify the features that contributed most to the
+    predictions.
+
+13. Model performance was evaluated using RMSE, MAE, and R². These
+    metrics were used to compare the Decision Tree, Bagging, and Random
+    Forest models.
+
+14. Actual versus predicted values were visualized to examine how
+    closely the Random Forest predictions followed the actual Kill Count
+    values.
+
+15. The experiment demonstrated that Random Forest combines the
+    advantages of Bagging and feature randomness to build an ensemble of
+    diverse decision trees.
+
+16. The experiment successfully demonstrated the concepts of Bagging,
+    Bootstrap Sampling, Feature Subsampling, Random Forests, OOB Score,
+    and OOB Error on the given dataset.
+
+RESULT
+
+Random Forest regression was successfully implemented on the John Wick 4
+Kill Count dataset, and its performance was evaluated using test-set
+metrics and Out-of-Bag evaluation.
